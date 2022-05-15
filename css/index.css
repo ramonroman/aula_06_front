@@ -1,0 +1,19 @@
+
+.box {
+    box-sizing: border-box;
+}
+
+.body{
+    font-family: Helvetica, sans-serif;
+    
+}
+
+.albuns img{
+  margin-bottom: 1em;
+  margin-top: 1em;
+}
+
+header {
+    text-align: center;
+}
+

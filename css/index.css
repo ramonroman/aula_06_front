@@ -1,6 +1,9 @@
 
 .box {
-    box-sizing: border-box;
+    box-sizing: content-box;
+    margin-left: 20px;
+    margin-top: 1em;
+    margin-bottom: 1em;
 }
 
 .body{
@@ -8,12 +11,14 @@
     
 }
 
+header {
+    text-align: center;
+}
+
 .albuns img{
   margin-bottom: 1em;
   margin-top: 1em;
 }
 
-header {
-    text-align: center;
-}
+
 
